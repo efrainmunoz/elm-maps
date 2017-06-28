@@ -1,2 +1,2 @@
 # elmlet
-Elm library for interactive maps inspired on Leaflet.
+Elm library for the creation of maps inspired on [Leaflet](http://leafletjs.com/).
